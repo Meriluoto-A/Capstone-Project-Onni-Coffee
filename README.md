@@ -31,4 +31,7 @@ This Capstone Project for the Google Data Analytics Certificate course follows t
 
 ## ANALYZE
 
-- **SQL** and **Python** were used to clean, transform, and visualize the data.
+- **SQL**: Data cleaning, combining 3 files into one dataset, KPI calculation
+- **Python**: Figures, profitability analysis
+- **Tableau**: Business Dashboard
+- **Powerpoint**: Storytelling
