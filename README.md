@@ -41,8 +41,7 @@ Data cleaning was performed to ensure data quality before analysis.
 
 **Excel**
 
-- Converted the original Excel files into CSV format for import into BigQuery.
-- Combined the datasets into a single analytical file for validation purposes.
+- Combined the datasets into a single analytical file for validation purposes (combining files, VLOOKUP, conditional formatting, changing data types).
 - Applied filters to support data review and quality checks.
 - Created pivot tables for preliminary data exploration and validation.
 - Created charts based on pivot table data.
