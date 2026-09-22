@@ -23,16 +23,14 @@ This Capstone Project for the Google Data Analytics Certificate course follows t
 **STAKEHOLDER:** Corporate Operations Manager who oversees performance across all store location
 
 ## PREPARE
-The Dataset contains coffee shop transaction data from three store locations: New York, Paris, and Tokyo, covering the period from 1 January 2023 to 30 June 2023. The dataset consists of 149,456 sales transactions and was sourced from Kaggle. The original dataset was modified slightly and separated into four Excel files to support relational data modelling and SQL analysis.
-
-Original dataset from Kaggle: https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
-
-Datasets should follow the **ROCCC** approach:
-•	**Reliable:** The dataset contains 149,456 transactions covering six months of operation across three coffee locations. 
-•	**Original:** The dataset was obtained from Kaggle and is therefore secondary data source.
-•	**Comprehensive:** The dataset includes transaction data, product information, locations, payment methods and product costs, enabling revenue and profitability analysis. 
-•	**Current:** The data covers January – June 2023 and reflects a specific historical period. 
-•	**Cited:** https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
+- The Dataset contains coffee shop transaction data from three store locations: New York, Paris, and Tokyo, covering the period from 1 January 2023 to 30 June 2023. The dataset consists of 149,456 sales transactions and was sourced from Kaggle. The original dataset was modified slightly and separated into four Excel files to support relational data modelling and SQL analysis.
+- Original dataset from Kaggle: https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
+- Datasets should follow the **ROCCC** approach:
+- •	**Reliable:** The dataset contains 149,456 transactions covering six months of operation across three coffee locations.
+- •	**Original:** The dataset was obtained from Kaggle and is therefore secondary data source.
+- •	**Comprehensive:** The dataset includes transaction data, product information, locations, payment methods and product costs, enabling revenue and profitability analysis.
+- •	**Current:** The data covers January – June 2023 and reflects a specific historical period.
+- •	**Cited:** https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
 
 
 ## PROCESS
@@ -71,10 +69,10 @@ The analysis focused on identifying differences in store performance, product pr
 **Tools Used**
 - SQL (BigQuery): Data preparation, KPI calculations and analysis.
 - Excel: Preliminary data exploration and validation using Pivot Tables.
-- Python: Visualisations and profitability analysis.
+- Python: Visualisation of the monthly sales.
 - Tableau: Interactive business dashboard.
 - PowerPoint: Presentation of findings and recommendations.
 
 ## SHARE
-- Powerpoint: *link here*
-- Tableau: *Link here*
+- Storyline: *link here*
+- Tableau: https://public.tableau.com/app/profile/ella.naakka/viz/OnniCoffeeSalesJan-June2023/OnniCoffeeSalesH12023
