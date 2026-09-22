@@ -61,11 +61,20 @@ The analysis focused on identifying differences in store performance, product pr
 1. Store Performance Comparison: Compared revenue, profit, profit margin and transaction volume across New York, Paris and Tokyo.
 2. Sales Trends: Analysed monthly sales performance to identify trends and differences between locations.
 3. Product Category Performance: Evaluated revenue, profit and profit margin by product category (coffee, tea, bakery, chocolate drinks and syrups).
-4. Top Products: Identified the best-selling and most profitable products across locations.
-5. Customer Purchasing Patterns: Analysed sales by hour of day and day of week to identify purchasing behaviour and peak sales periods.
-6. Product Mix by Location: Compared customer preferences and product category distribution across locations.
-7. Payment Method Analysis: Analysed the distribution of payment methods and differences between locations.
-8. Growth Opportunity Analysis: Identified products and categories with strong profitability potential and opportunities for revenue growth.
+4. Customer Purchasing Patterns: Analysed sales by hour of day and day of week to identify purchasing behaviour and peak sales periods.
+5. Payment Method Analysis: Analysed the distribution of payment methods and differences between locations.
+6. Growth Opportunity Analysis: Identified products and categories with strong profitability potential and opportunities for revenue growth.
+
+**Key findings**
+- H1 revenue totalled 699 k€ across three coffee shop locations.
+- Total profit reached 501 k€, corresponding to a profit margin above 70%.
+- Tokyo achieved the highest revenue and profit, although performance differences were small.
+- Revenue increased consistently throughout the first half of 2023.
+- Coffee generated the largest share of revenue and profit in every location.
+- Customer demand peaked during the morning hours (8-10 AM).
+- Coffee beans and premium beverages offer the strongest growth opportunities.
+
+
 
 **Tools Used**
 - SQL (BigQuery): Data preparation, KPI calculations and analysis.
