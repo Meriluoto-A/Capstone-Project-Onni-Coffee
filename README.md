@@ -77,3 +77,4 @@ The analysis focused on identifying differences in store performance, product pr
 ## SHARE
 - Storyline: https://github.com/Meriluoto-A/Capstone-Project-Onni-Coffee/blob/main/Onni_Coffee_Company_2.pdf
 - Tableau: https://public.tableau.com/app/profile/ella.naakka/viz/OnniCoffeeSalesJan-June2023/OnniCoffeeSalesH12023
+- Monthly sales figures in Python: https://github.com/Meriluoto-A/Capstone-Project-Onni-Coffee/blob/main/Onni-Coffee.ipynb
