@@ -25,12 +25,13 @@ This Capstone Project for the Google Data Analytics Certificate course follows t
 ## PREPARE
 - The Dataset contains coffee shop transaction data from three store locations: New York, Paris, and Tokyo, covering the period from 1 January 2023 to 30 June 2023. The dataset consists of 149,456 sales transactions and was sourced from Kaggle. The original dataset was modified slightly and separated into four Excel files to support relational data modelling and SQL analysis.
 - Original dataset from Kaggle: https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
-- Datasets should follow the **ROCCC** approach:
-- •	**Reliable:** The dataset contains 149,456 transactions covering six months of operation across three coffee locations.
-- •	**Original:** The dataset was obtained from Kaggle and is therefore secondary data source.
-- •	**Comprehensive:** The dataset includes transaction data, product information, locations, payment methods and product costs, enabling revenue and profitability analysis.
-- •	**Current:** The data covers January – June 2023 and reflects a specific historical period.
-- •	**Cited:** https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
+
+Datasets should follow the **ROCCC** approach:
+- **Reliable:** The dataset contains 149,456 transactions covering six months of operation across three coffee locations.
+- **Original:** The dataset was obtained from Kaggle and is therefore secondary data source.
+- **Comprehensive:** The dataset includes transaction data, product information, locations, payment methods and product costs, enabling revenue and profitability analysis.
+- **Current:** The data covers January – June 2023 and reflects a specific historical period.
+- **Cited:** https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
 
 
 ## PROCESS
@@ -74,5 +75,5 @@ The analysis focused on identifying differences in store performance, product pr
 - PowerPoint: Presentation of findings and recommendations.
 
 ## SHARE
-- Storyline: *link here*
+- Storyline: https://github.com/Meriluoto-A/Capstone-Project-Onni-Coffee/blob/main/Onni_Coffee_Company_2.pdf
 - Tableau: https://public.tableau.com/app/profile/ella.naakka/viz/OnniCoffeeSalesJan-June2023/OnniCoffeeSalesH12023
